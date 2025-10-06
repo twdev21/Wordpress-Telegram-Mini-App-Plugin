@@ -18,7 +18,7 @@ Essentially, it allows Telegram mini apps to act as secure OAuth-style login pro
 - 👤 Automatic User Creation and Login
 - 🧱 Access control: Automatically blocks all non-Telegram requests the plugin refuses connections from your domain or external browsers, ensuring it’s only launched via Telegram. (Optional)
 - 🪄 Shortcodes for displaying tg account info like id username in page editor easily 
-- 🔁 Automatic redirection: If a user hasn’t set a Telegram username, the plugin automatically redirects them to a defined page ensuring every account is linked and ready to use.
+- 🔁 Automatic redirection: If a user hasn’t set a Telegram username, the plugin automatically redirects them to a defined page ensuring every account is linked and ready to use. (Optional)
 - 🌐 REST API Endpoint
 - ⚙️ WooCommerce Compatibility
 - 🔧 Reverse Proxy Awareness
